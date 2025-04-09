@@ -10,4 +10,4 @@ npm run dev --> run a local environment for this app on loaacalhost:8080
 "port might differ if not available check console/terminal while runnning the appp"
 
 
-also deployed at https://nft-teleporter.vercel.app/(https://nft-teleporter.vercel.app/)[https://nft-teleporter.vercel.app/]
+also deployed at https://nft-teleporter.vercel.app/
